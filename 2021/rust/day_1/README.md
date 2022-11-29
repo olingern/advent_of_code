@@ -24,3 +24,7 @@ echo "1721
 ```bash
 cargo run
 ```
+
+### Result
+
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/1470297/204650958-643a6737-ef6e-43bd-8594-f2f0ccac3a47.png">
